@@ -1,0 +1,11 @@
+------------------------------------------------------------------------------------------------------------------
+Usuario: 40900000
+Fecha de inscripción: 01/07/2021 18:57:49
+
+Materia 1: ACTUACION PROFESIONAL DE SISTEMAS con el profesor: DUARTE IVAN, los dias MA/VI en el horario de: 19/21
+Alt.Mat.1: ACTUACION PROFESIONAL DE SISTEMAS con el profesor: MICHALLA BARBARA, los dias LU/JU en el horario de: 21/23
+Materia 2: SISTEMAS DE DATOS con el profesor: FERNANDEZ BLANCO MARIA, los dias LU/JU en el horario de: 07/09
+Alt.Mat.2: SISTEMAS DE DATOS con el profesor: SCHNEIDER GUSTAVO, los dias MA/VI en el horario de: 19/21
+No ha seleccionado un curso para materia 3.
+No ha seleccionado un curso alternativo para materia 3.
+-------------------------------------------------------------------------------------------------------------------

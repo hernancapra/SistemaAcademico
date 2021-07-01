@@ -1,0 +1,3 @@
+Carrera;Materia;Requisito
+1;1660;1659
+2;732;1654
