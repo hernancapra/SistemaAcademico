@@ -1,0 +1,52 @@
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\source\repos\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\HERNAN\Desktop\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\HERNAN\Desktop\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\Desktop\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\HERNAN\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\HERNAN\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\Flavia Gonzalez\Downloads\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\Flavia Gonzalez\Downloads\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\Flavia Gonzalez\Downloads\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\dlezica\OneDrive - KPMG\Desktop\CAI\TP CAI\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\Desktop\CAI\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\dlezica\OneDrive - KPMG\Desktop\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\bin\Debug\SistemaAcademico.exe.config
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\bin\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\bin\Debug\SistemaAcademico.pdb
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\obj\Debug\SistemaAcademico.csprojAssemblyReference.cache
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\obj\Debug\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\obj\Debug\SistemaAcademico.exe
+C:\Users\HERNAN\Desktop\FINAL\Codificación\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
