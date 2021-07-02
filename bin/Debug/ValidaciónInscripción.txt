@@ -1,0 +1,3 @@
+
+Usuario|Inscripto
+40900000|SI
